@@ -1,0 +1,29 @@
+{
+  "name": "vector-image-search",
+  "version": "1.0.0",
+  "description": "Small project to implement reverse image search using the Weaviate database to convert the images to vectors.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hagarfisher/vector-image-search.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hagarfisher/vector-image-search/issues"
+  },
+  "homepage": "https://github.com/hagarfisher/vector-image-search#readme",
+  "dependencies": {
+    "weaviate-ts-client": "^1.0.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}

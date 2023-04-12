@@ -41,4 +41,4 @@ npm start
 ```
 
 ## Acknowledgments
-This project was inspired by [Fireship](https://fireship.io/)
+This project was inspired by [Fireship's](https://fireship.io/) tutorial.
